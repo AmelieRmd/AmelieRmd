@@ -1,4 +1,4 @@
-# H1 👋 Hi, I'm Amélie ! 👋
+# 👋 Hi, I'm Amélie ! 👋
 
 After working for 10 years in consulting, I decided to learn Data Science.
 
