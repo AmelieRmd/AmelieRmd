@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @AmelieRmd
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science at Le Wagon Paris
-- 💞️ I’m looking to collaborate on Data Science projects using Python
-- 📫 How to reach me ...
+# H1 👋 Hi, I'm Amélie ! 👋
+
+After working for 10 years in consulting, I decided to learn Data Science.
+
+- 👀 Currently looking for Data Analyst / Data Scientist opportunities
+- 🌱 I spent 3 months learning Data Science at Le Wagon Paris
+- 📫 How to reach me : ramond.amelie@gmail.com
 
 <!---
 AmelieRmd/AmelieRmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
